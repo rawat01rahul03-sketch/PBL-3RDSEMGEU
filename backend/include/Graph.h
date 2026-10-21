@@ -6,6 +6,8 @@
 #include <vector>
 #include <unordered_map>
 
+// STORES THE DETAILS OF A POWER GRID SUBSTATIONS
+
 struct Substation {
     int id;
     std::string name;
